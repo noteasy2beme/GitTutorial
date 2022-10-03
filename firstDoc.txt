@@ -1,1 +1,2 @@
 This is the first doc.
+This is the change made by Kate
