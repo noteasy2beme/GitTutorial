@@ -1,5 +1,5 @@
 This is the first doc.
 This is the change made by Kate
 This is the change made by Chong
+Second change made by Chong
 4th row
-
